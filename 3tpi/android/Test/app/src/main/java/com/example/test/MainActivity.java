@@ -1,6 +1,8 @@
 package com.example.test;
 
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +22,13 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+    }
+
+    public void kliknietyButton(View view) {
+
+    }
+
+    public void kliknietyZapisz(View view) {
+        Toast.makeText(this, "Próbny text", Toast.LENGTH_LONG).show();
     }
 }
