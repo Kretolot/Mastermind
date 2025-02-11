@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:id="@+id/txt1"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:hint="Wpisz tu cos"
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Wyswietl w Toast"/>
+
+</LinearLayout>

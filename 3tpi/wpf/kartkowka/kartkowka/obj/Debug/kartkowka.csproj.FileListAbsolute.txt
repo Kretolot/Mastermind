@@ -1,0 +1,15 @@
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\bin\Debug\kartkowka.exe.config
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\bin\Debug\kartkowka.exe
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\bin\Debug\kartkowka.pdb
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.csproj.AssemblyReference.cache
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\MainWindow.g.cs
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\App.g.cs
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka_MarkupCompile.cache
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka_MarkupCompile.lref
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\MainWindow.baml
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.g.resources
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.Properties.Resources.resources
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.csproj.GenerateResource.cache
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.csproj.CoreCompileInputs.cache
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.exe
+C:\Users\t3\Documents\3tpi\wpf\kartkowka\kartkowka\obj\Debug\kartkowka.pdb
