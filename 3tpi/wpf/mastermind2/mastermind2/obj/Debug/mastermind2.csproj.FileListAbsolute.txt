@@ -1,0 +1,15 @@
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\bin\Debug\mastermind2.exe.config
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\bin\Debug\mastermind2.exe
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\bin\Debug\mastermind2.pdb
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.csproj.AssemblyReference.cache
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\MainWindow.g.cs
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\App.g.cs
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2_MarkupCompile.cache
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2_MarkupCompile.lref
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\MainWindow.baml
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.g.resources
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.Properties.Resources.resources
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.csproj.GenerateResource.cache
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.csproj.CoreCompileInputs.cache
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.exe
+C:\Users\t3\Documents\3tpi\wpf\mastermind2\mastermind2\obj\Debug\mastermind2.pdb

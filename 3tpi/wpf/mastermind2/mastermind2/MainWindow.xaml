@@ -1,0 +1,29 @@
+﻿<Window x:Class="mastermind2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mastermind2"
+        mc:Ignorable="d"
+        Title="Mastermind" Height="650" Width="220">
+    <Grid>
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="Gra">
+                <MenuItem Header="_Nowa" Click="nowa"/>
+                <Separator/>
+                <MenuItem Header="_Zakończ" Click="konczenie"/>
+            </MenuItem>
+            <MenuItem Header="O programie">
+                <MenuItem Header="Zasady gry"/>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Name="MainBoard" Margin="20">
+                    <Button Name="checkGame" Content="Sprawdź" Click="checkGame_Click"/>
+                </StackPanel>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>
